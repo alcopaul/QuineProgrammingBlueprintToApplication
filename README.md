@@ -1,2 +1,2 @@
 # QuineProgrammingBlueprintToApplication
-Quines That Follow The Exact Form Rendered From Abstract Lexical Blueprint
+Quines That Are In The Exact Form As The Lexical Blueprint...
