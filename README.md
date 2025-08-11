@@ -1,2 +1,2 @@
 # QuineProgrammingBlueprintToApplication
-Quines That Are In The Exact Form As The Lexical Blueprint...
+Constructing Quines That Are In The Exact Form As Their Lexical Blueprint..
